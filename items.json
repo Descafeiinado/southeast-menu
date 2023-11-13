@@ -24,7 +24,7 @@
       "name": "Hot-Dog Paulista",
       "origin": "rjsp",
       "description": "É composto por uma salsicha envolta em pão macio, acompanhada de diversos ingredientes como purê de batatas, milho, batata palha e outros complementos à escolha. ",
-      "image": "/images/hot-dog-paulista.png",
+      "image": "/images/hot-dog.png",
       "price": 0.0
   },
   {
@@ -40,5 +40,30 @@
       "description": "Consiste na junção de queijo Minas frescal, de sabor suave, com goiabada, resultando em uma mistura agridoce e deliciosa. ",
       "image": "/images/romeu-e-julieta.png",
       "price": 0.0
+  },
+  {
+    "name": "Refrigerante",
+    "origin": "drinks",
+    "description": "É a companhia perfeita para momentos descontraídos e refeições saborosas, proporcionando um toque de alegria em cada gole.",
+    "image": "/images/soda.png",
+    "price": 0.0
+  }, {
+    "name": "Suco",
+    "origin": "drinks",
+    "description": "Sirva-se de um copo gelado e celebre a refrescância vibrante do suco, a bebida que transforma qualquer momento com um toque frutífero de felicidade!",
+    "image": "/images/juice.png",
+    "price": 0.0
+  }, {
+    "name": "Água de Coco",
+    "origin": "drinks",
+    "description": "Com seu sabor suave e refrescante, a água de coco é como um abraço tropical em dias ensolarados.",
+    "image": "/images/coconut.png",
+    "price": 0.0
+  }, {
+    "name": "Mate",
+    "origin": "drinks",
+    "description": "Com seu sabor leve e revigorante, é como uma pausa para recarregar as energias.",
+    "image": "/images/mate.png",
+    "price": 0.0
   }
 ]
