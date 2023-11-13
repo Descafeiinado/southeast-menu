@@ -1,0 +1,44 @@
+[
+  {
+      "name": "Muxá Capixaba",
+      "origin": "es",
+      "description": "Doce feito à base de canjiquinha de milho e coco, que é servido de forma gelada, sendo um ótimo acompanhamento para um cafezinho.",
+      "image": "/images/muxa.png",
+      "price": 0.0
+  },
+  {
+      "name": "Pão de Queijo",
+      "origin": "mg",
+      "description": "Feito à base de polvilho e queijo, possui uma textura macia por dentro e uma casquinha crocante por fora.",
+      "image": "/images/pao-de-queijo.png",
+      "price": 0.0
+  },
+  {
+      "name": "Bauru",
+      "origin": "rjsp",
+      "description": "Sua combinação de sabores e texturas tornou o Bauru uma iguaria popular em todo o país! Composto por um pão macio e os tradicionais frios, queijo e presunto.",
+      "image": "/images/bauru.png",
+      "price": 0.0
+  },
+  {
+      "name": "Hot-Dog Paulista",
+      "origin": "rjsp",
+      "description": "É composto por uma salsicha envolta em pão macio, acompanhada de diversos ingredientes como purê de batatas, milho, batata palha e outros complementos à escolha. ",
+      "image": "/images/hot-dog-paulista.png",
+      "price": 0.0
+  },
+  {
+      "name": "Pastel",
+      "origin": "rjsp",
+      "description": "Uma massa frita, fina e crocante, recheada com uma variedade de ingredientes, como carne, queijo, frango, entre outros.",
+      "image": "/images/pastel.png",
+      "price": 0.0
+  },
+  {
+      "name": "Romeu e Julieta",
+      "origin": "mg",
+      "description": "Consiste na junção de queijo Minas frescal, de sabor suave, com goiabada, resultando em uma mistura agridoce e deliciosa. ",
+      "image": "/images/romeu-e-julieta.png",
+      "price": 0.0
+  }
+]

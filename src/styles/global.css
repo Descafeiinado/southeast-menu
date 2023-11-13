@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000A0F;
+  color: #E1E1E6;
+
+  --webkit-font-smoothing: antialised;
+}
