@@ -13,9 +13,9 @@ export function App() {
 
     <main className="mx-9 mt-16">
       <div className="bg-[#001119] gap-3 px-3 py-6 flex flex-col items-center rounded-xl border border-[#192227]">
-        <h2 className="text-xl font-bold">Cardápio do Sudeste</h2>
-
         <span className="text-[#FBA94C] font-petemoss text-4xl">Flicam</span>
+
+        <h2 className="text-xl font-bold">Cardápio do Sudeste</h2>
 
         <p className="text-sm text-center">Explore o sabor autêntico do sudeste brasileiro em cada mordida, uma viagem gastronômica única que combina tradição e inovação!</p>
       </div>
