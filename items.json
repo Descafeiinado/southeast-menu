@@ -35,13 +35,6 @@
       "price": 0.0
   },
   {
-      "name": "Romeu e Julieta",
-      "origin": "mg",
-      "description": "Consiste na junção de queijo Minas frescal, de sabor suave, com goiabada, resultando em uma mistura agridoce e deliciosa. ",
-      "image": "/images/romeu-e-julieta.png",
-      "price": 0.0
-  },
-  {
     "name": "Refrigerante",
     "origin": "drinks",
     "description": "É a companhia perfeita para momentos descontraídos e refeições saborosas, proporcionando um toque de alegria em cada gole.",
